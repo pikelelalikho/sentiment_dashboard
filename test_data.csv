@@ -1,0 +1,13 @@
+text,label
+"I love this product!",Positive
+"This is terrible.",Negative
+"It's okay, nothing special.",Neutral
+"Absolutely fantastic service!",Positive
+"I hate waiting, this is so slow.",Negative
+"Meh, it's fine I guess.",Neutral
+"Best purchase I've made!",Positive
+"Not worth the money.",Negative
+"Could be better.",Neutral
+"I am extremely satisfied!",Positive
+"This is the worst experience ever.",Negative
+"It's decent, nothing to complain about.",Neutral

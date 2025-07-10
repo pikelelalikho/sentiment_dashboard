@@ -1,0 +1,13 @@
+text,label,vader_pred,hf_pred
+I love this product!,Positive,Positive,Positive
+This is terrible.,Negative,Negative,Negative
+"It's okay, nothing special.",Neutral,Negative,Negative
+Absolutely fantastic service!,Positive,Positive,Positive
+"I hate waiting, this is so slow.",Negative,Negative,Negative
+"Meh, it's fine I guess.",Neutral,Positive,Positive
+Best purchase I've made!,Positive,Positive,Positive
+Not worth the money.,Negative,Negative,Negative
+Could be better.,Neutral,Positive,Negative
+I am extremely satisfied!,Positive,Positive,Positive
+This is the worst experience ever.,Negative,Negative,Negative
+"It's decent, nothing to complain about.",Neutral,Positive,Positive
